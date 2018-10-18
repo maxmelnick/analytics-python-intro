@@ -1,5 +1,10 @@
 # Introduction to Python for Analytics
 
+## Key Notebooks
+
+1. [Learn the basics](https://github.com/maxmelnick/analytics-python-intro/blob/master/notebooks/Intro%20to%20Python%20Data%20Wrangling.ipynb)
+2. Project [exercises](https://github.com/maxmelnick/analytics-python-intro/blob/master/notebooks/Project%201%20-%20Titanic%20(Exercises).ipynb) / [answers](https://github.com/maxmelnick/analytics-python-intro/blob/master/notebooks/Project%201%20-%20Titanic%20(Answers).ipynb)
+
 ## Purpose
 
 ## Learning objectives
@@ -14,8 +19,6 @@
 * Basic understanding of Python
 
 # Pre-work
-
-## Required
 
 #### Install Docker
 
@@ -50,10 +53,6 @@ docker-compose up -d
 docker logs
 ```
 
-
-## Optional
-
-TBD
 
 # Architecture Overview
 
